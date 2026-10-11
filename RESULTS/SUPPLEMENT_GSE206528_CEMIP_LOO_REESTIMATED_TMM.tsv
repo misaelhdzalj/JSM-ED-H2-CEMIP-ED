@@ -1,0 +1,9 @@
+omitted_donor	omitted_group	n_remaining	delta_mean_log2_ED_minus_control	positive_direction
+N1	normal	7	5.41268378748179	TRUE
+N2	normal	7	6.14503353930154	TRUE
+N3	normal	7	4.45043549903017	TRUE
+ED1	non_diabetic_ED	7	5.23280337218278	TRUE
+ED2	non_diabetic_ED	7	4.94661729049128	TRUE
+ED3	non_diabetic_ED	7	5.39683371806763	TRUE
+DMED1	diabetic_ED	7	5.69519789481866	TRUE
+DMED2	diabetic_ED	7	5.41332860053337	TRUE

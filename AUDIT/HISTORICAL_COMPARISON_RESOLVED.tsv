@@ -1,0 +1,41 @@
+section	metric	final_value	historical_expected	classification	note
+GSE206528 CEMIP donor robustness	delta mean log2	5.33627412695182	5.3297888633	MINOR DISCREPANCY	Minor TMM implementation/version differences are allowed if all structural conclusions are unchanged.
+GSE206528 CEMIP donor robustness	Hedges g	3.49195871203166	3.4965717458	MINOR DISCREPANCY	
+GSE206528 CEMIP donor robustness	Hedges g CI low	1.16519985396976	1.16772678759	MINOR DISCREPANCY	
+GSE206528 CEMIP donor robustness	Hedges g CI high	5.74853169250463	5.75530752711	MINOR DISCREPANCY	
+GSE206528 CEMIP donor robustness	exact permutation total	56	56	EXACT MATCH	
+GSE206528 CEMIP donor robustness	exact permutation p	0.0178571428571429	0.0178571428571429	EXACT MATCH	
+GSE206528 CEMIP donor robustness	5/5 ED above maximum control	TRUE	TRUE	EXACT MATCH	
+GSE206528 CEMIP non-DMED	exact permutation total	20	20	EXACT MATCH	
+GSE206528 CEMIP non-DMED	exact permutation p	0.05	0.05	EXACT MATCH	
+GSE206528 CEMIP non-DMED	3/3 non-DMED above maximum control	TRUE	TRUE	EXACT MATCH	
+GSE206528 genome-wide DE	historical CEMIP log2FC	5.11848760800753	4.9231	RESOLVED METHOD-FINALIZATION DIFFERENCE	Final R edgeR-QL value supersedes this historical discovery value if it differs. Material override: final CEMIP direction or genome-wide FDR interpretation changed. Provenance resolved after recovery of Phase-01/Phase-02 records; final manuscript-facing model is frozen edgeR-QL.
+GSE206528 genome-wide DE	historical CEMIP nominal p	0.000161192568249643	0.00061136	RESOLVED METHOD-FINALIZATION DIFFERENCE	Final R edgeR-QL value supersedes this historical discovery value if it differs. Material override: final CEMIP direction or genome-wide FDR interpretation changed. Provenance resolved after recovery of Phase-01/Phase-02 records; final manuscript-facing model is frozen edgeR-QL.
+GSE206528 genome-wide DE	historical CEMIP BH-FDR	0.0964187076198762	0.96633	RESOLVED METHOD-FINALIZATION DIFFERENCE	Final R edgeR-QL value supersedes this historical discovery value if it differs. Material override: final CEMIP direction or genome-wide FDR interpretation changed. Provenance resolved after recovery of Phase-01/Phase-02 records; final manuscript-facing model is frozen edgeR-QL.
+GSE206528 genome-wide DE	number of genes with BH-FDR <0.10	26	0	RESOLVED METHOD-FINALIZATION DIFFERENCE	Crossing this historical genome-wide multiplicity conclusion is material. Material override: final CEMIP direction or genome-wide FDR interpretation changed. Provenance resolved after recovery of Phase-01/Phase-02 records; final manuscript-facing model is frozen edgeR-QL.
+GSE206528 CEMIP LOO	all 8 LOO effects positive	TRUE	TRUE	EXACT MATCH	LOO now re-estimates TMM after each omission; exact deltas need not match frozen-normalized historical LOO.
+GSE206528 upstream triad	HYPOXIA rho	0.166666666666667	0.261904761905	MINOR DISCREPANCY	
+GSE206528 upstream triad	HYPOXIA exact p	0.351661706349206	0.268204365079	MINOR DISCREPANCY	
+GSE206528 upstream triad	HYPOXIA Holm p	0.703323412698413	0.536408730159	MINOR DISCREPANCY	Multiplicity-threshold crossing is material.
+GSE206528 upstream triad	HYPOXIA LOO positive n	6	6	EXACT MATCH	
+GSE206528 upstream triad	HYPOXIA non-DMED rho	-0.0285714285714286	-0.0285714285714	EXACT MATCH	
+GSE206528 upstream triad	INFLAMMATION_TNF_NFKB rho	0.666666666666667	0.666666666667	EXACT MATCH	
+GSE206528 upstream triad	INFLAMMATION_TNF_NFKB exact p	0.0415426587301587	0.0415426587302	EXACT MATCH	
+GSE206528 upstream triad	INFLAMMATION_TNF_NFKB Holm p	0.124627976190476	0.12462797619	EXACT MATCH	Multiplicity-threshold crossing is material.
+GSE206528 upstream triad	INFLAMMATION_TNF_NFKB LOO positive n	8	8	EXACT MATCH	
+GSE206528 upstream triad	INFLAMMATION_TNF_NFKB non-DMED rho	0.771428571428571	0.771428571429	EXACT MATCH	
+GSE206528 upstream triad	GLYCOLYSIS rho	-0.142857142857143	-0.333333333333	MINOR DISCREPANCY	
+GSE206528 upstream triad	GLYCOLYSIS exact p	0.648338293650794	0.805307539683	MINOR DISCREPANCY	
+GSE206528 upstream triad	GLYCOLYSIS Holm p	0.703323412698413	0.805307539683	MINOR DISCREPANCY	Multiplicity-threshold crossing is material.
+GSE206528 upstream triad	GLYCOLYSIS LOO positive n	1	1	EXACT MATCH	
+GSE206528 upstream triad	GLYCOLYSIS non-DMED rho	-0.142857142857143	-0.142857142857	EXACT MATCH	
+GSE144803 TNF	n pairs	39	39	EXACT MATCH	
+GSE144803 TNF	TNF > untreated pairs	30	30	EXACT MATCH	
+GSE144803 TNF	untreated detected	0	0	EXACT MATCH	
+GSE144803 TNF	TNF detected	23	23	EXACT MATCH	
+GSE144803 TNF	median delta log2	0.983179438696014	0.983179438696	EXACT MATCH	
+GSE144803 TNF	mean delta log2	1.58829493611596	1.588294936116	EXACT MATCH	
+GSE144803 TNF	Wilcoxon two-sided p	8.54459358379246e-07	8.54459358379e-07	EXACT MATCH	
+GSE144803 TNF	exact sign-test p	0.0010650196345523	0.00106501963455	EXACT MATCH	
+GSE144803 TNF	paired detectability exact p	2.38418579101562e-07	2.38418579101562e-07	EXACT MATCH	
+GSE144803 TNF	paired Hedges gz	0.902847816401271	0.902847816401	EXACT MATCH	

@@ -1,0 +1,2 @@
+method	n_donors	n_control	n_ED	genes_input	genes_retained	CEMIP_retained	CEMIP_log2FC_ED_minus_control	CEMIP_nominal_p	CEMIP_BH_FDR	n_genes_FDR_lt_0_10	min_BH_FDR
+edgeR quasi-likelihood; filterByExpr; TMM; robust dispersion/QL	8	3	5	33694	14947	TRUE	5.11848760800753	0.000161192568249643	0.0964187076198762	26	0.0856666804660712

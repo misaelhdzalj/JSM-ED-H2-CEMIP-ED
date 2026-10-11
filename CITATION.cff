@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use these reproducibility materials, please cite the associated manuscript and repository release."
+title: "Reproducibility materials for CEMIP expression in human cavernous endothelium: an exploratory transcriptomic study of erectile dysfunction"
+version: "1.0"
+authors:
+  - family-names: "Juárez Hernández"
+    given-names: "Misael Alejandro"
+  - family-names: "Hernández González"
+    given-names: "Yuli"
+  - family-names: "Castillejos Molina"
+    given-names: "Ricardo Alonso"

@@ -1,0 +1,2 @@
+endpoint	n_control	n_nonDM_ED	delta_mean_log2_nonDM_minus_control	cohen_d	hedges_g	hedges_g_ci95_low	hedges_g_ci95_high	permutation_hits	permutation_total	exact_one_sided_permutation_p	nonDM_above_max_control_n	nonDM_above_max_control_den	all_nonDM_above_max_control
+CEMIP non-DMED sensitivity: non-diabetic ED vs control	3	3	5.92176783000785	4.3472582709991	3.47780661679928	0.80876723443636	6.09097123363009	1	20	0.05	3	3	TRUE

@@ -1,0 +1,2 @@
+endpoint	n_control	n_ED	delta_mean_log2_ED_minus_control	cohen_d	hedges_g	hedges_g_ci95_low	hedges_g_ci95_high	permutation_hits	permutation_total	exact_one_sided_permutation_p	ED_above_max_control_n	ED_above_max_control_den	all_ED_above_max_control
+CEMIP donor-level descriptive robustness: ED vs control	3	5	5.33627412695182	4.01575251883641	3.49195871203166	1.16519985396976	5.74853169250463	1	56	0.0178571428571429	5	5	TRUE

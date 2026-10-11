@@ -8,7 +8,7 @@ Authors: Misael Alejandro Juárez Hernández, Yuli Hernández González, Ricardo
 
 ## Repository status
 
-**GITHUB-READY RELEASE CANDIDATE — keep private until the final repository/Zenodo release step.**
+**PUBLIC RELEASE v1.0.0 — archived in Zenodo with DOI `10.5281/zenodo.23294927`.**
 
 The frozen analysis code, manuscript-facing derived results, runtime records, and the two canonical derived GSE206528 pseudobulk inputs are included. The GSE144803 source file is not duplicated because it is publicly available from NCBI GEO; its expected SHA-256 is recorded for exact input verification.
 
@@ -73,11 +73,10 @@ The included GSE206528 derived inputs have been verified against the frozen expe
 - `GSE206528_target_pseudobulk_counts_v1.0.tsv.gz` — SHA-256 `98b0c7d37506999a4c0c39e702f399a3141069afa2fbb7bfbba7823b6d3f82fc`
 - `GSE206528_target_pseudobulk_schema_v1.1.tsv` — SHA-256 `dd43cbed41f6fc9523c0ea61f820af220ab545c906ca410ed4463e2dd0cc43f0`
 
-## Final release step
+## Repository and archive
 
-Before making the GitHub repository public or publishing the Zenodo deposit:
+- GitHub repository: `https://github.com/misaelhdzalj/JSM-ED-H2-CEMIP-ED`
+- Archived release: `https://doi.org/10.5281/zenodo.23294927`
+- Release version: `1.0.0`
 
-- create/reserve the final Zenodo DOI;
-- add the final repository/DOI citation to the release metadata and manuscript placeholders;
-- perform one last public-file audit;
-- then make the GitHub repository public and publish the archived Zenodo release.
+For reproducibility, cite the archived Zenodo release when referring to this frozen version. The GitHub repository provides the browsable code and project structure; the Zenodo record provides the versioned archival snapshot associated with this release.
